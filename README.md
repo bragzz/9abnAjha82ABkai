@@ -2,9 +2,6 @@ This was made by @111 idk his telegram, but yea here
 are the files Stealer.Client.dll & Stealer.Server.dll
 just drag them into your plugins folder then it is ready.
 
-Free for everyone to use !! the 2 files are jst the two
-files decompiled.
-
 ---
 
 ![photo_2025-12-16_17-13-47](https://github.com/user-attachments/assets/6be811c4-2901-47a2-9cb1-cb2e2da74df2)
